@@ -1,0 +1,21 @@
+#to-do-pirkumas-lapa
+{
+    background-color: cadetblue;
+}
+#lapa
+{
+    height: 500px;
+    width: 200px;
+        border: black 2px solid;
+}
+#rt
+{
+    display:flex;
+    justify-content: space-between;
+}
+#to-do
+{
+    height: 500px;
+    width: 200px;
+        border: black 2px solid;
+}
